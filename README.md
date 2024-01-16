@@ -2,7 +2,7 @@
 
 Responsive Personal Portfolio website developed with **Vanilla JS** and **CSS**.
 
-[Netlify Link][(https://valeriya-sapega.netlify.app/)]
+[Netlify Link](https://valeriya-sapega.netlify.app/)
 
 ### Challenge:
 - Create a slider using pure JavaScript
