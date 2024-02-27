@@ -1,6 +1,6 @@
 ## Personal Portfolio | Vanilla JavaScript
 
-Responsive Personal Portfolio website developed with **Vanilla JS** and **CSS**.
+Desktop Personal Portfolio website developed with **Vanilla JS** and **CSS**.
 
 [Netlify Link](https://valeriya-sapega.netlify.app/)
 
